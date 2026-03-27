@@ -1,7 +1,7 @@
 # Portfolio Optimizer
 
 ## Overview
-The Portfolio Optimizer is a Python-based tool designed to assist in the optimization of investment portfolios. It provides various methods for calculating portfolio statistics, maximizing the Sharpe ratio, minimizing volatility, generating the efficient frontier, and creating random portfolios. This tool is particularly useful for investors and financial analysts looking to enhance their portfolio management strategies.
+The Portfolio Optimizer is a Python-based tool designed to assist in the optimization of investment portfolios. It provides various methods for calculating portfolio statistics, maximizing the Sharpe ratio, minimizing volatility, generating the efficient frontier, and creating random portfolios.
 
 ## Features
 - **Portfolio Statistics**: Calculate expected returns, volatility, and Sharpe ratio for a given set of asset weights.
